@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="/home/amilai/Downloads/pdfbox-1.8.9.jar"/>
+	<classpathentry kind="lib" path="/home/amilai/Downloads/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="/home/amilai/Downloads/fontbox-1.5.0.jar"/>
+	<classpathentry kind="lib" path="/home/amilai/Downloads/itextpdf-5.5.3.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

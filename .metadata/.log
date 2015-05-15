@@ -1,0 +1,33 @@
+!SESSION 2015-05-15 11:15:16.415 -----------------------------------------------
+eclipse.buildId=3.6.2.201410091015-RELEASE-e38
+java.version=1.7.0_51
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Framework arguments:  -product org.springsource.sts.ide
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.springsource.sts.ide
+
+!ENTRY org.eclipse.ui 4 4 2015-05-15 11:15:31.418
+!MESSAGE Unable to find view with id: com.springsource.sts.roo.ui.rooShellView, when creating perspective com.springsource.sts.ide.perspective
+
+!ENTRY org.eclipse.ui.browser 2 0 2015-05-15 11:15:32.796
+!MESSAGE Internal browser is not available: No more handles [Unknown Mozilla path (MOZILLA_FIVE_HOME not set)]
+!SESSION 2015-05-15 11:16:15.630 -----------------------------------------------
+eclipse.buildId=3.6.2.201410091015-RELEASE-e38
+java.version=1.7.0_51
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Framework arguments:  -product org.springsource.sts.ide
+Command-line arguments:  -data /home/amilai/Dev/Tools/sts-workspaces/jobs/TinyShop -os linux -ws gtk -arch x86_64 -product org.springsource.sts.ide
+
+!ENTRY org.eclipse.ui.browser 2 0 2015-05-15 11:16:21.178
+!MESSAGE Internal browser is not available: No more handles [Unknown Mozilla path (MOZILLA_FIVE_HOME not set)]
+!SESSION 2015-05-15 11:16:39.675 -----------------------------------------------
+eclipse.buildId=3.6.2.201410091015-RELEASE-e38
+java.version=1.7.0_51
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Framework arguments:  -product org.springsource.sts.ide
+Command-line arguments:  -data /home/amilai/Dev/Tools/sts-workspaces/jobs/TinyShop -os linux -ws gtk -arch x86_64 -product org.springsource.sts.ide
+
+!ENTRY org.eclipse.ui.browser 2 0 2015-05-15 11:16:45.448
+!MESSAGE Internal browser is not available: No more handles [Unknown Mozilla path (MOZILLA_FIVE_HOME not set)]
